@@ -1,4 +1,4 @@
-# Fault Detection Homework Repository
+# Second Homework
 
 This collection includes my solutions to the second series of assignments for the Fault Detection course, focusing on different statistical techniques for fault detection in industrial systems, including Maximum Likelihood Estimation (MLE), non-parametric methods, and data preprocessing.
 
