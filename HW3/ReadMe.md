@@ -1,4 +1,4 @@
-# Fault Detection Homework Repository
+# Third Homework
 
 This collection includes my solutions to the third series of assignments for the Fault Detection course. The tasks focus on using machine learning models, such as Neural Networks (RBF and MLP), along with dimensionality reduction techniques for fault classification in industrial systems.
 
